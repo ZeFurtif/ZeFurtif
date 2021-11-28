@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Eliott. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<div class="tenor-gif-embed" data-postid="13307647" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">Soulja Boy Pepe Sticker</a>from <a href="https://tenor.com/search/soulja+boy-stickers">Soulja Boy Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/view/pepe-boipepe-sighpepe-stare-gif-12361497" />
+<div class="tenor-gif-embed" data-postid="12361497" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/pepe-boipepe-sighpepe-stare-gif-12361497">Pepe Boipepe GIF</a>from <a href="https://tenor.com/search/pepe-gifs">Pepe GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
