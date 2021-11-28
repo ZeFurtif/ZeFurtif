@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Eliott. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -9,21 +8,10 @@ I'm just a simple man trying to make my way in the universe.
   - Python
   - HTML5/CSS3
 
-__Check out my GitHub repository:__
 
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
+<h2>Links</h2>
 
-
-<h2>👀 My github Stats</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliott-vallot/)](https://www.linkedin.com/in/eliott-vallot/)
 
 <div>
 <!--   <p align="center">
