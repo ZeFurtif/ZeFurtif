@@ -1,6 +1,6 @@
 # Hi, I'm Eliott. 
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## ***About me***
 
 I'm just a simple man trying to make my way in the universe.
 * **I am interested in Game Developpement, 2D Animation, and Illustration**
@@ -12,6 +12,7 @@ I'm just a simple man trying to make my way in the universe.
 <h2>Links</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Eliott-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliott-vallot/)](https://www.linkedin.com/in/eliott-vallot/)
+[![Website Badge](https://img.shields.io/badge/-eliottvallot.free.fr-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://eliottvallot.free.fr)](http://eliottvallot.free.fr)
 
 
 ---------------------------------------------------------------------------------------------------------------------
