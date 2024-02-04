@@ -3,10 +3,13 @@
 ## ***About me***
 
 I'm just a simple man trying to make my way in the universe.
-* **I am interested in Game Developpement, 2D Animation, and Illustration**
+* **I do Game Developpement, 2D Animation, and Illustration**
 - I’m currently learning ...
   - Python
-  - HTML5/CSS3
+  - HTML/CSS
+  - JavaScript
+  - C#
+  - HLSL
 
 
 <h2>Links</h2>
