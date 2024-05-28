@@ -10,6 +10,7 @@ I'm just a simple man trying to make my way in the universe.
   - JavaScript
   - C#
   - HLSL
+  - Zig
 
 
 <h2>Links</h2>
